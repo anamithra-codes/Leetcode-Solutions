@@ -8,4 +8,12 @@ Welcome to my repository for Data Structures and Algorithms! As a CSE student, I
 | ------- |
 | [0009-palindrome-number](https://github.com/anamithra-codes/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [2235-add-two-integers](https://github.com/anamithra-codes/Leetcode-Solutions/tree/master/2235-add-two-integers) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/anamithra-codes/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/anamithra-codes/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
