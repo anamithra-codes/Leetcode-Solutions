@@ -6,5 +6,6 @@ Welcome to my repository for Data Structures and Algorithms! As a CSE student, I
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/anamithra-codes/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [2235-add-two-integers](https://github.com/anamithra-codes/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
