@@ -16,4 +16,12 @@ Welcome to my repository for Data Structures and Algorithms! As a CSE student, I
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anamithra-codes/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/anamithra-codes/Leetcode-Solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/anamithra-codes/Leetcode-Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
