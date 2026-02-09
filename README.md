@@ -21,6 +21,7 @@ Welcome to my repository for Data Structures and Algorithms! As a CSE student, I
 | ------- |
 | [0001-two-sum](https://github.com/anamithra-codes/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anamithra-codes/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anamithra-codes/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,4 +30,8 @@ Welcome to my repository for Data Structures and Algorithms! As a CSE student, I
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anamithra-codes/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anamithra-codes/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
